@@ -3,6 +3,7 @@
 ## Overview
 
 This project provides a command-line interface (CLI) built with **Typer** for training, evaluating, and running deep learning models (mainly for computer vision tasks such as classification). It also includes utilities for dataset preprocessing, cross-validation training, anomaly detection, inference, and carbon emission tracking. We also implemented a graphical user interface to simply the usage of this tool.
+Data used in this study can be found here : https://zenodo.org/records/22012197.
 
 ---
 
